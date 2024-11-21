@@ -1,0 +1,12 @@
+{
+  "tasks": {
+    "tasks": [
+      {
+        "id": 1,
+        "title": "DSA practice",
+        "dueDate": "21-11-2024",
+        "status": "pending"
+      }
+    ]
+  }
+}

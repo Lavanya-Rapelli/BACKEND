@@ -6,6 +6,12 @@
         "title": "DSA practice",
         "dueDate": "21-11-2024",
         "status": "pending"
+      },
+      {
+        "id": 2,
+        "title": "project submissiom",
+        "dueDate": "22-11-2024",
+        "status": "completed"
       }
     ]
   }

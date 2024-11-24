@@ -1,0 +1,14 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "NEM305",
+      "description": "node js express js mongodb"
+    },
+    {
+      "id": 2,
+      "title": "DSA305",
+      "description": "data structures and alogorithms "
+    }
+  ]
+}

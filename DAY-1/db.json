@@ -1,0 +1,29 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "NEM305",
+      "description": "node js express js mongodb"
+    },
+    {
+      "id": 2,
+      "title": "DSA305",
+      "description": "data structures and alogorithms "
+    },
+    {
+      "id": 3,
+      "title": "FCS305",
+      "description": "foundational communication skills"
+    },
+    {
+      "id": 4,
+      "title": "MERN",
+      "description": "mongodb express js react node js"
+    },
+    {
+      "id": 5,
+      "title": "REACT",
+      "description": "react framework"
+    }
+  ]
+}
